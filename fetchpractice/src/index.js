@@ -3,13 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import AX from './AX';
-import AX1 from './AX1';
+import Axiospra from './Axiospra';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
-    <AX1 />
+<Axiospra/>
 
 );
 
